@@ -8,4 +8,5 @@ Az elemzés célja Nemzeti Egészségbiztosítási Alapkezelőhöz benyújtott
 illetve az infláció közötti korreláció vizsgálata, árérzékeny csoportok azonosítása
 
 Data Klub Nyári Kihívás 2025 feladatmegoldása
+
 Feladat: web scraping és AI szövegelemzés alkalmazása
