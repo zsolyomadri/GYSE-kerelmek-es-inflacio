@@ -1,4 +1,6 @@
 # GYSE-kerelmek-es-inflacio
+Data Klub Nyári Kihívás 2025 feladatmegoldása
+
 A gyógyászati segédeszközök (GYSE) társadalombiztosítási kérelmei és az infláció közötti összefüggések vizsgálata
 
 Az elemzés célja Nemzeti Egészségbiztosítási Alapkezelőhöz benyújtott 
@@ -8,6 +10,5 @@ Az elemzés célja Nemzeti Egészségbiztosítási Alapkezelőhöz benyújtott
 
 illetve az infláció közötti korreláció vizsgálata, árérzékeny csoportok azonosítása
 
-Data Klub Nyári Kihívás 2025 feladatmegoldása
 
-Feladat: web scraping és AI szövegelemzés alkalmazása
+Nyári kihívás feladat: web scraping és AI szövegelemzés alkalmazása
